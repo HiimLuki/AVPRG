@@ -51,3 +51,6 @@ var allFrequencies = [
 		document.getElementById("ausgabe").innerHTML = "Frequenz " + output;
 		
 	}
+
+	
+	
