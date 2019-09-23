@@ -10,7 +10,7 @@ for (let i=0; i< drumpads.length; i++){
     });
 }
 function getData(i){
-    let sound = new Audio("../sound" + (i+1) + ".wav");
+    let sound = new Audio("../Audio/sound/sound" + (i+1) + ".wav");
     sounds.push(sound);
 }
 function playSound(){
